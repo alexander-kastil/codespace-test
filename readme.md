@@ -24,7 +24,9 @@ Together they reduce “works on my machine” issues, speed onboarding, and sim
 
 - Pick the fork owner/org and confirm. ![Fork dialog choose owner](_images/create-fork.png)
 
-- In your fork, open Code ➜ Codespaces ➜ Create codespace on master to launch the devcontainer. ![Create Codespace on master](_images/codespace-start.png). On the first launch, Codespaces will build the container image and install dependencies. This may take several minutes.
+- In your fork, open Code ➜ Codespaces ➜ Create codespace on master to launch the devcontainer. ![Create Codespace on master](_images/codespace-start.png).
+  
+- On the first launch, Codespaces will build the container image and install dependencies. This may take several minutes.
 
 - Then test package management and port forwarding:
 
