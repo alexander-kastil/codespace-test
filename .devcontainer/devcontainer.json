@@ -13,6 +13,9 @@
             "version": "3.12"
         }
     },
+    // Prebuild optimization: install lightweight Python deps during image creation
+    // so Codespaces can cache them in prebuilds.
+    "onCreateCommand": "python -m pip install --upgrade pip && python -m pip install fastapi==0.110.3 'uvicorn[standard]==0.29.0'",
     "postCreateCommand": "dotnet --info && node -v && python --version",
     "customizations": {
         "vscode": {
