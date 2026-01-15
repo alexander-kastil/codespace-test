@@ -22,7 +22,7 @@ GitHub Codespaces builds that environment in the cloud, letting new team members
 
 - Pick the fork owner/org and confirm. ![Fork dialog choose owner](_images/create-fork.png)
 
-- In your fork, open Code ➜ Codespaces ➜ Create codespace on master to launch the devcontainer. ![Create Codespace on master](_images/codespace-start.png)
+- In your fork, open Code ➜ Codespaces ➜ Create codespace on master to launch the devcontainer. ![Create Codespace on master](_images/codespace-start.png). On the first launch, Codespaces will build the container image and install dependencies. This may take several minutes.
 
 - Then test package management and port forwarding:
 
