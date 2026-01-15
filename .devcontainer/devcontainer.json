@@ -1,5 +1,5 @@
 {
-    "name": "Codespace Test (.NET 10, Node 22.12.0, Python 3.12)",
+    "name": "GitHub Copilot",
     "image": "mcr.microsoft.com/devcontainers/base:ubuntu-24.04",
     "features": {
         "ghcr.io/devcontainers/features/dotnet:2": {
