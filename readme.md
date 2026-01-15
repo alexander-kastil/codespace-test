@@ -6,7 +6,7 @@ This repository gives customers a minimal devcontainer (Python 3.12, Node 22, .N
 
 Dev Containers define a reproducible development environment as code, so every contributor gets the same tools, runtimes, extensions, and settings without local setup drift.
 
-> Note: If you wish you can examine out the [.devcontainer/devcontainer.json](./.devcontainer/devcontainer.json).
+> Note: If you wish you can examine the [.devcontainer/devcontainer.json](./.devcontainer/devcontainer.json).
 
 GitHub Codespaces builds that environment in the cloud, letting new team members open the repo and start coding in minutes—no local installs required. Prebuilds can cache image creation and dependency installs to make the very first launch even faster. 
 
