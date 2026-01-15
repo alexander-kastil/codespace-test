@@ -8,7 +8,9 @@ Dev Containers define a reproducible development environment as code, so every c
 
 > Note: If you wish you can examine out the [.devcontainer/devcontainer.json](./.devcontainer/devcontainer.json).
 
-GitHub Codespaces builds that environment in the cloud, letting new team members open the repo and start coding in minutes—no local installs required. Prebuilds can cache image creation and dependency installs to make the very first launch even faster. Together they reduce “works on my machine” issues, speed onboarding, and simplify collaboration across platforms.
+GitHub Codespaces builds that environment in the cloud, letting new team members open the repo and start coding in minutes—no local installs required. Prebuilds can cache image creation and dependency installs to make the very first launch even faster. 
+
+Together they reduce “works on my machine” issues, speed onboarding, and simplify collaboration across platforms.
 
 [Codespaces Docs](https://docs.github.com/en/codespaces)
 
