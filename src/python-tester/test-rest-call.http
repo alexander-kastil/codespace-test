@@ -1,0 +1,7 @@
+### Simple GET to verify forwarded port
+GET http://localhost:8000/
+Accept: application/json
+
+### Health-style ping
+GET http://localhost:8000/health
+Accept: application/json
